@@ -1,4 +1,4 @@
-![](/hero.png)
+<img src='./hero.png' width='100%' alt='Youtube channel header' aria-label='Anton code it channel' />
 
 This repository contains all sources from the live coding sessions for ["Anton code it"](http://bit.ly/antoncodeit-youtube) youtube channel.
 
