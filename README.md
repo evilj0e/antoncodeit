@@ -1,4 +1,4 @@
-# Anton code it
+![](/hero.png)
 
 This repository contains all sources from the live coding sessions for ["Anton code it"](http://bit.ly/antoncodeit-youtube) youtube channel.
 
