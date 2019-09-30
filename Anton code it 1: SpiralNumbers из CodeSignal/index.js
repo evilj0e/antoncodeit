@@ -4,7 +4,7 @@ from 1 to N * N in a spiral order, starting from top-left and in
 clockwise direction.
 
 Link to the description: http://bit.ly/antoncodeit-description-1
-Link to the live coding: http://bit.ly/antoncodeit-youtube
+Link to the live coding: http://bit.ly/antoncodeit-live-1
 */
 
 function spiralNumbers(n) {
