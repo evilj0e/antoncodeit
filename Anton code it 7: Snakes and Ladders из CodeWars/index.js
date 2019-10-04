@@ -16,7 +16,7 @@ thrown in a turn and are both integers between 1 and 6. The player will
 move the sum of die1 and die2.
 
 Rules
- 	1.  There are two players and both start off the board on square 0.
+    1.  There are two players and both start off the board on square 0.
     2.  Player 1 starts and alternates with player 2.
     3.  You follow the numbers up the board in order 1=>100
     4.  If the value of both die are the same then that player will have 
