@@ -6,7 +6,7 @@ This repository contains all sources from the live coding sessions for ["Anton c
 
 [Youtube channel](http://bit.ly/antoncodeit-youtube)
 
-[Chat on Telegram](http://bit.ly/antoncodeit-chat)
+[Chat on Telegram](http://bit.ly/antoncodeit-chat-telegram)
 
 ### Workflow
 
