@@ -1,5 +1,5 @@
 /*
-Task
+Campus cup
 
 Dropbox holds a competition between schools called CampusCup. If you verify an email address from
 a college, university, or higher education institution, you earn 20 points toward your school's
@@ -17,6 +17,9 @@ Your task is to make a scoreboard, i.e. to sort the schools according to the amo
 they each received (per student not in total). School A must be higher in the standings than school
 B if A received more space than B, or if they received equal number of gigabytes but the domain
 string of school A is lexicographically smaller than the one of school B.
+
+Link to the description: https://app.codesignal.com/company-challenges/dropbox/RMJDiTprBf5HQY3oa
+Link to the live coding: https://youtu.be/7kI9NyjkAXY
 */
 
 function campusCup(emails) {
